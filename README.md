@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Ilya A. Mukhatov
+# Hi, I'm Ilya A. Mukhatov
 
-🎯 **Aspiring Data Analyst | Career Transitioner from Technical Operations to Data Intelligence**  
-📍 Ottawa, Canada | 🔍 Focused on turning complex data into actionable insights  
+**Aspiring Data Analyst | Career Transitioner from Technical Operations to Data Intelligence**  
+Ottawa, Canada | Focused on turning complex data into actionable insights  
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a former Electrical Technologist with 5+ years of experience in the healthcare industry (Abbott Point of Care), now transitioning into the world of **Data Analytics and Data Science**.
 
@@ -13,7 +13,7 @@ My journey is driven by curiosity, a passion for optimization, and a commitment 
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 **Languages & Querying:**  
 `Python`, `SQL`, `PostgreSQL`, `Snowflake SQL`
@@ -26,7 +26,7 @@ My journey is driven by curiosity, a passion for optimization, and a commitment 
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 📊 [UEFA Champions League Analytics (2020–2022)](https://github.com/yourusername/uefa-champions-league-analytics)
 *Snowflake SQL & Python*  
@@ -42,7 +42,17 @@ Ongoing public health analysis of restaurant inspection data, visualized through
 
 ---
 
-## 📈 Currently Learning
+## 🎓 Certifications
+
+[![SQL Associate Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate-badge-link-here)](https://www.datacamp.com/certificate/SQA0013681072594)  
+*DataCamp SQL Associate – Earned May, 2025*
+
+[![Data Analyst Associate Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate-badge-link-here)](https://www.datacamp.com/certificate/DAA0013338135826)  
+*DataCamp Data Analyst Associate – Earned May, 2025*
+
+---
+
+## Currently Learning
 
 - Data modeling and dbt workflows  
 - A/B testing and experimentation frameworks  
@@ -50,17 +60,17 @@ Ongoing public health analysis of restaurant inspection data, visualized through
 
 ---
 
-## 🌱 My Transition Story
+## My Transition Story
 
 After years of working with hardware, lab systems, and automation, I realized the future lies in **making data work smarter**. My goal is to bring analytical rigor and domain understanding into projects that improve decisions—whether in healthcare, manufacturing, or urban systems.
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
-- 🔗 [Portfolio Website (GitHub Pages)](https://yourusername.github.io)  
-- 📧 Email: your.email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🔗 [Portfolio Website (GitHub Pages)](https://i-mukhatov.github.io)  
+- 📧 Email: a.mukhatov@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ilyamukhatov/)  
 - 🧠 Always open to collaboration, learning, and feedback!
 
 ---
