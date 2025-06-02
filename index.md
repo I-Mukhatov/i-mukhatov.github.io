@@ -9,7 +9,7 @@
 
 ---
 [Evaluating a Manufacturing Process using SQL & Python](/sample_page_project_2)
-<img src="images/sql_spc_summary.png?raw=true"/>
+<img src="images/sql_spc_summary.PNG?raw=true"/>
 
 ---
 [NYC Restaurant Inspection Analysis (In Progress)](/sample_page_project_3)
