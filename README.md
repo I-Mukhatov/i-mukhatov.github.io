@@ -44,11 +44,11 @@ Ongoing public health analysis of restaurant inspection data, visualized through
 
 ## Certifications
 
-[![SQL Associate Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate-badge-link-here)](https://www.datacamp.com/certificate/SQA0013681072594)  
-*DataCamp SQL Associate – Earned May, 2025*
+[![SQL Associate Badge](images/SQL_Associate_badge_with_outline.png)](https://www.datacamp.com/certificate/SQA0013681072594)  
+**DataCamp SQL Associate** – Earned May, 2025*
 
 [![Data Analyst Associate Badge](images/DA_Associate_badge_with_outline.png)](https://www.datacamp.com/certificate/DAA0013338135826)  
-*DataCamp Data Analyst Associate – Earned May, 2025*
+**DataCamp Data Analyst Associate** – Earned May, 2025*
 
 ---
 
