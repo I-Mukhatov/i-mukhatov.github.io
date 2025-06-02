@@ -4,25 +4,20 @@
 
 ### Data Analysis using SQL 
 
-[UEFA Champions League Analytics (2020–2022)](/sample_page)
+[UEFA Champions League Analytics (2020–2022)](/sample_page_project_1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Evaluating a Manufacturing Process using SQL & Python](/sample_page_project_2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[NYC Restaurant Inspection Analysis (In Progress)](/sample_page_project_3)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Data Engineering
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
