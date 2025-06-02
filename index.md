@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis using SQL 
 
-[Project 1 Title](/sample_page)
+[UEFA Champions League Analytics (2020–2022)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Data Engineering
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
