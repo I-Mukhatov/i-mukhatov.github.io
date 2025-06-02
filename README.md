@@ -1,55 +1,68 @@
-## Developer Portfolio Landing Page Template
+# 👋 Hi, I'm Ilya A. Mukhatov
 
-### ⚠️ Project Discontinued ⚠️
-
-**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
+🎯 **Aspiring Data Analyst | Career Transitioner from Technical Operations to Data Intelligence**  
+📍 Ottawa, Canada | 🔍 Focused on turning complex data into actionable insights  
 
 ---
 
-### Introduction
+## 🚀 About Me
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+I'm a former Electrical Technologist with 5+ years of experience in the healthcare industry (Abbott Point of Care), now transitioning into the world of **Data Analytics and Data Science**.
 
-### Installation
+My journey is driven by curiosity, a passion for optimization, and a commitment to continuous learning. I've earned multiple DataCamp certifications (SQL Associate, Data Analyst Associate, and in progress: Data Engineer Associate), and I’m using this foundation to build real-world, data-driven solutions across domains like sports analytics, manufacturing, and public health.
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+---
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+## 🧰 Tools & Technologies
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Languages & Querying:**  
+`Python`, `SQL`, `PostgreSQL`, `Snowflake SQL`
 
-### Markdown
+**Analytics & Visualization:**  
+`Power BI`, `Tableau`, `Jupyter Notebook`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Data Engineering & Workflow Tools:**  
+`dbt`, `MS Access`, `Power Query`, `VBA`, `Git/GitHub`
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## 📂 Featured Projects
 
-- Bulleted
-- List
+### 📊 [UEFA Champions League Analytics (2020–2022)](https://github.com/yourusername/uefa-champions-league-analytics)
+*Snowflake SQL & Python*  
+Exploratory and tactical performance insights drawn from UEFA Champions League match data. Includes advanced SQL queries, team comparisons, and Python visualizations.
 
-1. Numbered
-2. List
+### ⚙️ [Evaluating a Manufacturing Process using SQL & Python](https://github.com/yourusername/spc-manufacturing-analysis)
+*SPC & Process Optimization*  
+A real-world inspired project that applies SQL and Python to assess process stability using SPC techniques. Includes alert rate diagnostics and operator performance tracking.
 
-**Bold** and _Italic_ and `Code` text
+### 🗽 [NYC Restaurant Inspection Analysis (In Progress)](https://github.com/yourusername/nyc-restaurant-inspection)
+*PostgreSQL & Tableau*  
+Ongoing public health analysis of restaurant inspection data, visualized through Tableau dashboards to reveal trends and critical violations by cuisine and borough.
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 📈 Currently Learning
 
-### Roadmap
+- Data modeling and dbt workflows  
+- A/B testing and experimentation frameworks  
+- Real-time data pipelines & analytics engineering  
 
-This project has been discontinued and is no longer actively maintained. No new features or fixes will be added. If you're interested in contributing, feel free to fork the repository and customize it to your needs.
-___
+---
 
-### References
+## 🌱 My Transition Story
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+After years of working with hardware, lab systems, and automation, I realized the future lies in **making data work smarter**. My goal is to bring analytical rigor and domain understanding into projects that improve decisions—whether in healthcare, manufacturing, or urban systems.
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 [Portfolio Website (GitHub Pages)](https://yourusername.github.io)  
+- 📧 Email: your.email@example.com  
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🧠 Always open to collaboration, learning, and feedback!
+
+---
+
+> *“Data is only as valuable as the action it inspires.” – That’s the principle guiding everything I build.*  
